@@ -1,0 +1,28 @@
+* {
+    margin: 0%; /* Espaçamento externo fora da caixa */
+    padding: 0%; /* Espaçamento interno dentro da caixa*/
+
+}
+
+h1 {
+    color: red; /* Adiciona cor na letra */
+    background-color: blue; /* Adiciona com no fundo */
+    font-size: 50px; /* Aumenta o tamanho da fonte */
+    text-align: center; /* Alinhar o texto */
+    margin: 50px;
+    padding: 60px;
+    text-transform: uppercase;/* Deixar tudo maiusculo */
+    font-weight: bold; /* Espessura */
+    font-family: monospace; /* Estilo */
+    letter-spacing: 5px; /* Espaçamento entre as letras */
+    border-radius: 100px; /* Deixar as bordas redondas */
+    border: solid black 2px; /* Bordas */
+    box-shadow: black 10px 10px 20px; /* Adicionar profundidade e sombra */
+
+
+}
+
+p {
+ text-align: justify; /* Texto justificado justify*/
+
+}
